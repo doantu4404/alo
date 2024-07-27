@@ -1,4 +1,4 @@
-const postAPI = "https://thanh6886.github.io/usersAPI/usersAPI.json";
+const postAPI = "https://doantu4404.github.io/API/usersAPI.json";
 
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
